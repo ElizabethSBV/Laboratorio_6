@@ -1,0 +1,30 @@
+.contenido{
+    padding-top: 30px;
+}
+p{
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#Titulo{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-top: 10px;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    padding-bottom: 5px;
+}
+#remar{
+    font-size: 13px;
+    text-align: center;
+    padding-top: 3px;
+}
+img{
+    padding-top: 35px;
+    padding-left: 10px;
+}
+.imagen{
+    height: 500px;
+    width: 100px;
+}
