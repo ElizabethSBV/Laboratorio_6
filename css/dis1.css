@@ -1,14 +1,20 @@
 #navh{
-    background-color: rgb(245, 108, 45);
+    background-color: rgb(29, 156, 165);
 }
 #navbar{
     background-color: rgb(61, 167, 161);
 }
+
+.link{
+    color: black;
+}
+
 #btncol{
     background-color: rgb(13, 189, 180);   
 }
 #offcanvasWithBothOptions{
     width: fit-content;
+    background-color: rgb(207, 236, 227);
 }
 .contenido{
     padding-top: 30px;
